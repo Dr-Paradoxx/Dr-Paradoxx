@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Maheshwar and I'm a Clinical Data Analyst ....</h2>
+<h2 align="left">Hi 👋! My name is Maheshwar and I'm a Clinical Data Analyst and a Research assistant at MedAI Lab.</h2>
 
 ###
 
